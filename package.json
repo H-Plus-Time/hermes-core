@@ -1,0 +1,14 @@
+{
+  "name": "hermes-core",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cors": "^2.8.3",
+    "express": "^4.15.3",
+    "node-base64-image": "^1.0.3",
+    "sendgrid": "^5.1.1"
+  }
+}
